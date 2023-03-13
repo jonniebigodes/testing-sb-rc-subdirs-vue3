@@ -14,8 +14,8 @@ const config = {
     autodocs: 'tag'
   },
   // Default
-  staticDirs: ['../public']
+  //staticDirs: ['../public']
   // Subdirectory images
-  //staticDirs: ['../public/assets/images']
+  staticDirs: ['../public/assets/images']
 }
 export default config
