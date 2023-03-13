@@ -12,6 +12,10 @@ const config = {
   },
   docs: {
     autodocs: 'tag'
-  }
+  },
+  // Default
+  staticDirs: ['../public']
+  // Subdirectory images
+  //staticDirs: ['../public/assets/images']
 }
 export default config
